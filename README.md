@@ -2,7 +2,7 @@
 
 **An AI operating system for teams.** OperateOS turns messy launch briefs and meeting transcripts into dependency-linked plans, warns you when a blocked task puts downstream work at risk, and records every human and AI action in an audit log.
 
-> Live app: `<add your Vercel URL here>` · API: `<add your Render URL here>/healthz`
+> Live app: `https://operate-os-ten.vercel.app/` · API: `https://operateos.onrender.com/healthz`
 > Click **Load Demo Workspace** on the login page to try everything without signing up.
 
 ---
