@@ -4,6 +4,7 @@
 
 > Live app: `https://operate-os-ten.vercel.app/` · API: `https://operateos.onrender.com/healthz`
 > Click **Load Demo Workspace** on the login page to try everything without signing up.
+> Project demo video : `(https://drive.google.com/file/d/1UOXvk0ilfgKtsh1V8VYXpXhPv2bFH0Az/view?usp=sharing)`
 
 ---
 
